@@ -1,4 +1,4 @@
-# rust forward proxy (WIP)
+# rust forward proxy
 
 My current (WIP) final project that encapsulates various modules I'm working on with the goal of exploring server programming with only the rust standard libraries.
 
